@@ -1,6 +1,6 @@
 
 ############################################## Preprocessing demographic data ######################################
-setwd ("D:\\Programs\\Dropbox\\R_project\\Misfit")
+setwd ("...")
 
 source("./R/preprocessing.R")
 source("./R/modeling.R") 
@@ -164,13 +164,3 @@ main <- function(){
 
 
 main()
-
-
-
-
-
-
-
-
-
-
